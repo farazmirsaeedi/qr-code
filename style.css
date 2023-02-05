@@ -2,6 +2,7 @@ body{
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
+    min-height:100vh;
     background-color: #D5E1EF;
     display: flex;
     flex-direction: column;
